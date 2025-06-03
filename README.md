@@ -1,5 +1,12 @@
 # Data Visualization Project
+Created by: Serene Plummer (me)
+
 This independent project demonstrates my proficiency in data visualization, model training, and analysis using Scikit-Learn. I focused on extracting insights from stock price data and evaluating model performance.
+
+## *Data Ingestion* 
+- Fetches historical stock pric using the *yfinance* Python package.
+- Supports data cleaning and reprocessing to prepare for modeling. 
+
 
 ## AAPL Stock Price Prediction Using Support Vector Regression
 I used Support Vector Regression (SVR) models to predict AAPL stock prices based on the past 30 days of data.
